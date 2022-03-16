@@ -3,24 +3,17 @@
 # Hi, welcome to my TEKsystems capstone project. 
 
 ## Below is a summary what is found in this file:
-1. Web Application Ideas
-2. User Stories - Idea #1: Ecommerce App 
+* User Stories
 
-## Web Application Ideas
-1. Ecommerce App (Home goods, gym equipment, music store, car dealership, etc.)
-2. Online resume builder
-3. DnD Character Sheet Tracker
-
-## User Stories - Idea #1: Ecommerce App
+## Ecommerce App User Stories
 As a User, I would like to:
-* create an account so that I may save my information for future purchases
-* purchase an item as a guest so I can have a quick, one-time shopping experience
+* create an account so I can personalize my shopping experience
+* checkout items as a guest so that I am not forced to create an account
 * place items in my shopping cart so I can buy them
-* save items so I can revisit them later
-* create a wishlist to track what I would like to buy in the future
-* share my wishlist with others so they may know what I would like to have
+* save my favorite items so I can view them later
+* add items to a list so I may share this list with others
+* search for an item so I can see if it's available for purchase
 
-## User Stories - Idea #2: Online Resume Builder
-As a User, I would like to:
-* create a new resume quickly so that I can use my time efficiently
-* change the style/format of a resume so that it suites my needs
+As a Developer, I would like to:
+* use an authorized third party service to conduct financial transactions so my users do not worry about having their money stolen
+* use MariaDB as my database so that I may easily fetch all data relating to my users
