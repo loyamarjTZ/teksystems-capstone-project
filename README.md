@@ -1,6 +1,6 @@
 # teksystems-capstone-project
 
-## What is this web application?
+## Description
 * This web application implements MVP functionality of a typical Ecommerce web application 
 
 ## User Stories
