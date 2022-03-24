@@ -1,11 +1,9 @@
 # teksystems-capstone-project
 
-# Hi, welcome to my TEKsystems capstone project. 
+## What is this web application?
+* This web application implements MVP functionality of a typical Ecommerce web application 
 
-## Below is a summary what is found in this file:
-* User Stories
-
-## Ecommerce App User Stories
+## User Stories
 As a User, I would like to:
 * create an account so I can personalize my shopping experience
 * checkout items as a guest so that I am not forced to create an account
