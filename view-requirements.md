@@ -1,7 +1,7 @@
 # View Requirements
 
 ### Use an external CSS stylesheet
-### Include six different views or pages (include wirframe in submission)
+### Include six different views or pages (include wireframe in submission)
 ### Use HTML to layout the pages
 ### Use Thymeleaf to make the page dynamic
 ### Use CSS to style the web pages
